@@ -1,8 +1,7 @@
- 👋 Hi, This is @v_spot Repo
+ 👋 Hi, This is @Diago_x
 - 🌱 I’m currently learning python 
-- 📫 How to reach ? -> You can reach me through telegram [@v_spot_bots](https://t.me/v_spot_bots)
+- 📫 How to reach ? -> You can reach me through telegram [CoderzHex](https://t.me/coderzHex)
 
-<!---
-V-spot/v-spot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---this is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

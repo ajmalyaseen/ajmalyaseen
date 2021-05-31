@@ -1,5 +1,5 @@
 
-<h3 align="left">HI I AM F36</h3> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h3 align="left">HI I AM DIAGO</h3> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 I’m currently learning python 
 - 📫 How to reach ? -> You can reach me through telegram [CoderzHex](https://t.me/coderzHex)

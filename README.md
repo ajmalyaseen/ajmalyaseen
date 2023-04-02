@@ -2,7 +2,8 @@
 <h3 align="left">HI I AM Yasin</h3> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 I’m currently learning python 
-- 📫 How to reach ? -> You can reach me through telegram [CoderzHex](https://t.me/coderzHex)
+- 📫 How to reach ? -> You can reach me through instagram [yazine](https://instagram.com/yazin
+_))
 
 
 <!---this is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

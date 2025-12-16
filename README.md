@@ -48,9 +48,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalyaseen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmalyaseen&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
-</div>
+
+
 
 <br>
 
